@@ -12,4 +12,4 @@ TypeScript - JavaScript - **P**ostgreSQL - **E**xpress.js -**R**eact.js - **N**o
 Chart.js - TailwindCSS
 
 ## Tools 
-Visual Studio Code - Figma - Slack - Docker - NPM
+Visual Studio Code - Figma - Slack - Docker - NPM - Vite
