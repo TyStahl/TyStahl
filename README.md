@@ -5,7 +5,7 @@
 My name is Tyler and I am a Full Stack Software Engineer.
 Thanks for visiting and please check out the projects I have developed so far!
 
-## Stack
+## Stack (PERN)
 TypeScript - JavaScript - **P**ostgreSQL - **E**xpress.js -**R**eact.js - **N**odeJS - HTML5 - CSS 
 
 ## Libraries
